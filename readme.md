@@ -1,6 +1,8 @@
 # zio-quill-macro-test
 
 Minimal compiling example that uses Scala 3 macros to help generate boilerplate quill code for a `Repository[T]`.
+Reason for building this test repo: see [thread on twitter](https://x.com/polentino911/status/1831086796991844635).
+
 
 ## Rationale
 
